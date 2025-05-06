@@ -125,4 +125,4 @@ const name = isLoggedIn && "Authenticated"
 let age = null 
 // let age = undefined
 let result = age ?? "No age"
-console.log(result);
+// console.log(result);
